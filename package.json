@@ -1,0 +1,23 @@
+{
+  "name": "xhr-promise-base",
+  "version": "0.1.0",
+  "description": "Bare bones Promise-based XHR.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloodyKnuckles/xhr-promise-bare.git"
+  },
+  "keywords": [
+    "XHR",
+    "promise"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bloodyKnuckles/xhr-promise-bare/issues"
+  },
+  "homepage": "https://github.com/bloodyKnuckles/xhr-promise-bare#readme"
+}
