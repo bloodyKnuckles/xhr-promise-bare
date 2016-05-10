@@ -1,5 +1,5 @@
 {
-  "name": "xhr-promise-base",
+  "name": "xhr-promise-bare",
   "version": "0.1.0",
   "description": "Bare bones Promise-based XHR.",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "promise"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/bloodyKnuckles/xhr-promise-bare/issues"
   },
